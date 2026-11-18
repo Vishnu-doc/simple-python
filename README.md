@@ -1,2 +1,1 @@
-# simple-python
-simple python
+print("Hello, World!")
