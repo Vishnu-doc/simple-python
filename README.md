@@ -1,1 +1,1 @@
-print("Hello, World!")
+print("cloud compmputing, lab!")
